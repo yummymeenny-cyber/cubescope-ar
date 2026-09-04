@@ -1,0 +1,11 @@
+{
+  "name": "CubeScope AR — นักสืบมุมมอง 3 มิติ",
+  "short_name": "CubeScope AR",
+  "description": "เกมฝึกภาพด้านบน ด้านหน้า และด้านข้างของรูปทรงลูกบาศก์",
+  "lang": "th",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
